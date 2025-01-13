@@ -22,9 +22,9 @@ In this project, you will create a webpage that presents details about an **AI i
    - Ensure heading elements are sequenced logically and maintain proper hierarchy.
    - Focus on defining the meaning of the content without worrying about how it looks.
 
-2. **Content Requirements:**
-   - Choose one row from the dataset provided to build your page.
-   - Your webpage must include the following sections:
+**Content Requirements:**
+   - Select **four rows** from the dataset provided to build your page.
+   - Your webpage must include the following sections for each incident:
      - **Header:** The title of the AI incident and a short description.
      - **Incident Details Section:** Include the following:
        - Date of the incident.
