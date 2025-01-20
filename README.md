@@ -7,7 +7,7 @@
 
 ## **Objective**
 
-In this project, you will create a webpage that presents details about an **AI incident** based on one row from the provided dataset. The project will focus on building a semantically structured webpage using HTML and styling it with CSS. This assignment will help you understand web development fundamentals and prepare you for advanced features in future tasks.
+In this project, you will update your personal website with CSS, and create a webpagee **within that website** that presents details about an **AI incident** based on one row from the provided dataset. The project will focus on building a semantically structured webpage using HTML and styling it with CSS. This assignment will help you understand web development fundamentals and prepare you for advanced features in future tasks.
 
 > **Dataset:** [Key AI Incidents Dataset](https://github.com/SIAT-IAT-235/P1-IncidentPage/blob/main/Key_AI_Incidents.csv)
 >
