@@ -9,7 +9,9 @@
 
 In this project, you will create a webpage that presents details about an **AI incident** based on one row from the provided dataset. The project will focus on building a semantically structured webpage using HTML and styling it with CSS. This assignment will help you understand web development fundamentals and prepare you for advanced features in future tasks.
 
-> **Dataset:** [Key AI Incidents Dataset](https://github.com/SIAT-IAT-235/P1-IncidentPage/blob/main/Key_AI_Incidents.csv) 
+> **Dataset:** [Key AI Incidents Dataset](https://github.com/SIAT-IAT-235/P1-IncidentPage/blob/main/Key_AI_Incidents.csv)
+>
+> **Details:** Create a new page within your website and update the content of that page.
 
 ---
 
@@ -58,6 +60,13 @@ In this project, you will create a webpage that presents details about an **AI i
 2. **Validate Your Code:**
    - Use the W3C Validator to ensure your HTML and CSS are error-free.
    - Submit only validated code for grading.
+
+---
+
+
+### **Part 4: Updating styles of your personal website**
+
+1. **Make any style changes you want to your website**
 
 ---
 
