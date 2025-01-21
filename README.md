@@ -52,10 +52,12 @@ In this project, you will update your personal website with CSS, and create a we
    - Override default HTML styles to create a visually appealing design.
    - Use `rem` units for font sizes and spacing (e.g., margins, paddings).
    - Apply consistent styling across all sections of the page.
+   - Feel free to use any CSS style you want (font, image, hover, position, animation, etc.). However, make sure to use at least 3 style attributes for each HTML element.
 
 2. **Visual Design Goals:**
    - Ensure your page is clean, professional, and emphasizes readability.
-   - Use colours, fonts, and layout effectively to enhance the content presentation.
+   - Use colors, fonts, and layout effectively to enhance the content presentation.
+   - In two paragraphs, describe your potential viewer/reader persona. Explain why you have designed your webpage in a certain way in relation to that persona. Furthermore, elaborate on how your CSS design decisions align with the described persona (e.g., I guess my viewers are single females aged 25-35 who are interested in reading books. I have chosen these color codes and formatting for my headers because they are visually appealing to such viewers). There's no correct answer to this, we only want to learn more about your design mindset. **Add these paragraphs as comments to your HTML code.**
 
 ---
 
