@@ -17,7 +17,14 @@ In this project, you will update your personal website with CSS, and create a we
 
 ## **Instructions**
 
-### **Part 1: HTML Structure**
+### **Part 1: Update personal website**
+
+1. **Update the looks of your personal website with CSS**
+   - Use ID, class, and element selectors
+   - Apply padding and margins to elements
+   - Create 
+
+### **Part 2: HTML Structure**
 
 1. **Build the HTML structure for your page:**
    - Use semantic HTML elements to organize your content meaningfully.
@@ -25,6 +32,7 @@ In this project, you will update your personal website with CSS, and create a we
    - Focus on defining the meaning of the content without worrying about how it looks.
 
 **Content Requirements:**
+   - Create a new page for your personal website. Titled Project 1, within the page you will add content from the provided dataset.
    - Select **four rows** from the dataset provided to build your page.
    - Your webpage must include the following sections for each incident:
      - **Header:** The title of the AI incident and a short description.
@@ -33,7 +41,7 @@ In this project, you will update your personal website with CSS, and create a we
        - Location, if applicable.
        - Description of the incident.
      - **Impact Section:** Explain the incident's impact, including technical, social, and ethical considerations.
-     - **References Section:** Cite sources or links related to the incident (from your research).
+     - **References Section:** Cite sources or links related to the incident (from your research)
 
 ---
 
@@ -61,20 +69,6 @@ In this project, you will update your personal website with CSS, and create a we
    - Use the W3C Validator to ensure your HTML and CSS are error-free.
    - Submit only validated code for grading.
 
----
-
-
-### **Part 4: Updating styles of your personal website**
-
-1. **Make any style changes you want to your website**
-
----
-
-## **Future Tasks (Not Required for This Submission)**
-
-- **Interactive Elements:** Add advanced interactivity, such as animations or dynamic content.
-- **Responsiveness:** Make the page fully responsive for all screen sizes (e.g., mobile, tablet, and desktop).
-- **Wireframes:** Develop the page based on a wireframe.
 
 ---
 
