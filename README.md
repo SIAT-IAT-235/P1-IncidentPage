@@ -22,7 +22,7 @@ In this project, you will update your personal website with CSS, and create a we
 1. **Update the looks of your personal website with CSS**
    - Use ID, class, and element selectors
    - Apply padding and margins to elements
-   - Create 
+   - You will need to use correct CSS styles based on the lecture slides. Your style and design is not graded. But try to make it look good :).
 
 ### **Part 2: HTML Structure**
 
