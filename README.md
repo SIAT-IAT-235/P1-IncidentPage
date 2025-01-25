@@ -7,7 +7,7 @@
 
 ## **Objective**
 
-In this project, you will update your personal website with CSS, and create a webpagee **within that website** that presents details about an **AI incident** based on one row from the provided dataset. The project will focus on building a semantically structured webpage using HTML and styling it with CSS. This assignment will help you understand web development fundamentals and prepare you for advanced features in future tasks.
+In this project, you will update your personal website with CSS and create a webpage **within that website** that presents details about **four AI incidents** based on rows from the provided dataset. The project will focus on building a semantically structured webpage using HTML and styling it with CSS. This assignment will help you understand web development fundamentals and prepare you for advanced features in future tasks.
 
 > **Dataset:** [Key AI Incidents Dataset](https://github.com/SIAT-IAT-235/P1-IncidentPage/blob/main/Key_AI_Incidents.csv)
 >
@@ -19,20 +19,22 @@ In this project, you will update your personal website with CSS, and create a we
 
 ### **Part 1: Update personal website**
 
-1. **Update the looks of your personal website with CSS**
-   - Use ID, class, and element selectors
-   - Apply padding and margins to elements
-   - You will need to use correct CSS styles based on the lecture slides. Your style and design is not graded. But try to make it look good :).
+1. **Update the appearance of your personal website using CSS**
+   - Use ID, class, and element selectors.
+   - Apply padding and margins to elements.
+   - Ensure your design is consistent across all pages of your website.
+     
+2. **Note:** You will need to use the correct CSS styles based on the lecture slides. Your style and design are not graded, but try to make it look good :).
 
-### **Part 2: HTML Structure**
+### **Part 2: Build the AI Incident Page**
 
-1. **Build the HTML structure for your page:**
+1. **Create the HTML structure for the page:**
    - Use semantic HTML elements to organize your content meaningfully.
    - Ensure heading elements are sequenced logically and maintain proper hierarchy.
    - Focus on defining the meaning of the content without worrying about how it looks.
 
 **Content Requirements:**
-   - Create a new page for your personal website. Titled Project 1, within the page you will add content from the provided dataset.
+   - Create a new page for your personal website. Titled Project 1, within the page, you will add content from the provided dataset.
    - Select **four rows** from the dataset provided to build your page.
    - Your webpage must include the following sections for each incident:
      - **Header:** The title of the AI incident and a short description.
@@ -45,9 +47,9 @@ In this project, you will update your personal website with CSS, and create a we
 
 ---
 
-### **Part 2: CSS Styling**
+### **Part 3: CSS Styling**
 
-1. **Style the content using CSS:**
+1. **Style the AI incident page using CSS:**
    - Use CSS to define the look and feel of the webpage.
    - Override default HTML styles to create a visually appealing design.
    - Use `rem` units for font sizes and spacing (e.g., margins, paddings).
@@ -57,11 +59,14 @@ In this project, you will update your personal website with CSS, and create a we
 2. **Visual Design Goals:**
    - Ensure your page is clean, professional, and emphasizes readability.
    - Use colors, fonts, and layout effectively to enhance the content presentation.
-   - In two paragraphs, describe your potential viewer/reader persona. Explain why you have designed your webpage in a certain way in relation to that persona. Furthermore, elaborate on how your CSS design decisions align with the described persona (e.g., I guess my viewers are single females aged 25-35 who are interested in reading books. I have chosen these color codes and formatting for my headers because they are visually appealing to such viewers). There's no correct answer to this, we only want to learn more about your design mindset. **Add these paragraphs as comments to your HTML code.**
+     
+3. **Design Reflection:**
+   - In two paragraphs, describe your potential viewer/reader persona. Explain why you have designed your webpage in a certain way in relation to that persona. Furthermore, elaborate on how your CSS design decisions align with the described persona (e.g., I guess my viewers are single females aged 25-35 who are interested in reading books. I have chosen these color codes and formatting for my headers because they are visually appealing to such viewers). There's no correct answer to this, we only want to learn more about your design mindset.
+   - Include these paragraphs as **comments** in your HTML file.
 
 ---
 
-### **Part 3: Deployment**
+### **Part 4: Deployment**
 
 1. **Publish your project to GitHub Pages:**
    - Add the project as a new page to your personal website.
