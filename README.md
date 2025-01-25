@@ -26,6 +26,8 @@ In this project, you will update your personal website with CSS and create a web
      
 2. **Note:** You will need to use the correct CSS styles based on the lecture slides. Your style and design are not graded, but try to make it look good :).
 
+---
+
 ### **Part 2: Build the AI Incident Page**
 
 1. **Create the HTML structure for the page:**
